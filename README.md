@@ -31,10 +31,26 @@ cd ..\football_analysis
 
 Set up the following dependencies
 
-For Object Detection
+⚽For Object Detection:
 ```sh
 pip install ultralytics
 pip install roboflow
 ```
-More to come...
+👕For Team Assignment:
+```sh
+pip install supervision
+```
+For Data Visualization and Manipulation:
+```sh
+pip install numpy
+pip install pandas
+pip install matplotlib
+```
+For Image Processing:
+```sh
+pip install opencv-python
+```
+
+
+
 
