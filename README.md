@@ -40,13 +40,13 @@ pip install roboflow
 ```sh
 pip install supervision
 ```
-For Data Visualization and Manipulation:
+📊For Data Visualization and Manipulation:
 ```sh
 pip install numpy
 pip install pandas
 pip install matplotlib
 ```
-For Image Processing:
+📷For Image Processing:
 ```sh
 pip install opencv-python
 ```
